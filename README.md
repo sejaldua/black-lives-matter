@@ -2,4 +2,4 @@
 
 ### 1000 tweets --> word cloud
 
-![](visualizations/wordcloud_high_dpi.png)
+![](visualizations/wordcloud_ss.png)
